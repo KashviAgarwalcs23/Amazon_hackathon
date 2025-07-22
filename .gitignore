@@ -1,4 +1,16 @@
+# Python
 __pycache__/
-*.pyc
-venv/
+*.py[cod]
 *.egg-info/
+
+# Virtual environments
+venv/
+.env/
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
