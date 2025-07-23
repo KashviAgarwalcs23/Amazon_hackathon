@@ -10,9 +10,8 @@ Key features include:
 - Social features for sharing and discovering content
 - Advanced feedback collection and analytics
 
-Our prototype reached the **third round**, where we demonstrated the functionality and explained the concept to the judges.
+Our prototype reached the **semi-final round**, where we demonstrated the functionality and explained the concept to the judges.
 
----
 
 ## 🧰 Tech Stack
 - Python 3.12
@@ -62,27 +61,9 @@ python src/main.py
 🧪 Running Tests
 pytest
 
-📄 License
-MIT License (optional — add one if you want)
 
 👥 Authors
 Kashvi Agarwal
 Nishita Agarwal
-
-
----
-
-📌 **Next steps:**
-1. On GitHub, only commit:
-firetv_enhanced/
-.gitignore
-2. Delete or exclude `venv/` and `__pycache__/` folders.
-3. Add the README above as `firetv_enhanced/README.md` or in root.
-
- Questions or Feedback
-If you have any questions, need clarifications, or face difficulties understanding any part of the project, feel free to reach out by email:
-
-📧 yourname@example.com
-
-I’ll be happy to assist and explain any part in detail.
+--
 
